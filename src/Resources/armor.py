@@ -3,8 +3,8 @@ Created on 15 Apr 2019
 
 @author: Chester
 '''
-
-class Wearable(object):
+from Resources.item import Item
+class Armor(Item):
     '''
     classdocs
     '''
@@ -14,4 +14,4 @@ class Wearable(object):
         '''
         Constructor
         '''
-        
+        super(self,params)

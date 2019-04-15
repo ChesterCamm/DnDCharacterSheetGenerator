@@ -1,0 +1,16 @@
+Name,hitdice
+ArmorProficiency1,ArmorProficiency2,ArmorProficiencyEtc
+WeaponProf1,WeaponProf2,WeaponProfEtc
+ToolProf1,$MarkChoicesWithDollarLikeThis\andTheOthersWithASlash$
+SavingThrow1,SavingThrow2
+NumberOfSkillsToChoose,Skill1,Skill2,SkillEtc,
+0,0,EquimentChoiceA,AlsoEquipmentChoiceA,FirstNumberIsToLinkChoices
+0,1,EquimentChoiceB,AlsoEquipmentChoiceB,SecondNumberIsToLinkItemsGivenInChoices
+1,0,SecondEquipChoiceA,UsingTheseNumericsToHandleEasierInCode
+1,1,SecondEquipChoiceB,AndLetsYouEasilyAddMoreThanOneChoice
+2,0,GivenEquipment1,GivenEquipment2,NoteForThisThereIsNoOtherChoice
+-Spellcasting
+
+-Feats
+
+-Subclasses

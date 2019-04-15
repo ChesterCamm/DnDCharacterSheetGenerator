@@ -3,8 +3,8 @@ Created on 15 Apr 2019
 
 @author: Chester
 '''
-
-class Class(object):
+from Resources.item import Item
+class Tool(Item):
     '''
     classdocs
     '''
@@ -14,4 +14,4 @@ class Class(object):
         '''
         Constructor
         '''
-        
+        super(self,params)

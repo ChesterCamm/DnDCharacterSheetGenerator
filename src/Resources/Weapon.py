@@ -3,8 +3,8 @@ Created on 15 Apr 2019
 
 @author: Chester
 '''
-
-class Weapon(object):
+from Resources.item import Item
+class Weapon(Item):
     '''
     classdocs
     '''
@@ -14,4 +14,5 @@ class Weapon(object):
         '''
         Constructor
         '''
+        super(self,params)
         
